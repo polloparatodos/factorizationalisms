@@ -20,7 +20,8 @@ Not too bad, right? Well... this is annoying cause you'll need to find two value
 
 It's easy! The steps are below!
 
-1. Download the Python3 script to wherever you're comfortable, e.g. `~/git/factorizationalisms.py`
-2. Run the script with your python interpreter either directly, Visual Studio Code, Pycharm, or w/e else you like.
-3. Follow the prompt and enter in a number that is the result of multiplying `A * C`, Example: If `-0.5 * -350 = 175`, then enter `175`
-4. Look at the STDOUT and see if anything looks familiar (hopefully, for you, you'll see a value post addition that equals your 'B' value
+1. Clone the repo to wherever you're comfortable, e.g. `~/git/factorizationalisms`
+2. `cd ~/git/factorizationalisms`
+3. Run the script with your python interpreter either directly, Visual Studio Code, Pycharm, or w/e else you like.
+4. Follow the prompt and enter in a number that is the result of multiplying `A * C`, Example: If `-0.5 * -350 = 175`, then enter `175`
+5. Look at the STDOUT and see if anything looks familiar (hopefully, for you, you'll see a value post addition that equals your 'B' value
